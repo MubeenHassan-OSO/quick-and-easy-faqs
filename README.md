@@ -1,5 +1,5 @@
 # quick-and-easy-faqs
-The PHP code defines a custom post type and taxonomy for managing FAQs (Frequently Asked Questions) in WordPress and a shortcode to display FAQs on pages or posts using flexible parameters.
+The PHP code defines a custom post type and taxonomy for managing FAQs (Frequently Asked Questions) in WordPress and a shortcode to display FAQs on pages or posts using flexible parameters. Add this code to your Child theme and use it accordingly, you will not need a plugin for Faqs anymore
 
 Features:
 
